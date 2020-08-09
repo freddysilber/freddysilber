@@ -15,3 +15,8 @@ On the side, I'm always learning new ideas and building fun side projects to hel
 * Cipher CLI tool :wrench:
 * Custom PDF Generator
 * :spades: Games (Solitare, Chess, Checkers, Tic Tac Toe)
+
+# Some stuff I've made
+
+[Portfolio Site](https://freddysilber-portfolio.web.app/)
+[Lightning Components Documentation]( https://lightning-components-documentation.vercel.app/)
