@@ -9,3 +9,9 @@ On the side, I'm always learning new ideas and building fun side projects to hel
 * Custom project management solution for Fidelity Investments :moneybag:
 * Lightning Component library add-on package for Cloud Coach Enterprise :sunglasses:
 * Recipe book app in Angular :see_no_evil:
+
+# Goals and Ideas :bulb:
+
+* Cipher CLI tool :wrench:
+* Custom PDF Generator
+* :spades: Games (Solitare, Chess, Checkers, Tic Tac Toe)
