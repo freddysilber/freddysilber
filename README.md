@@ -6,12 +6,13 @@ On the side, I'm always learning new ideas and building fun side projects to hel
 
 # Current Projects :grey_exclamation:
 
-* Custom project management solution for Fidelity Investments :moneybag:
+* Learning Angular!
 * Lightning Component library add-on package for Cloud Coach Enterprise :sunglasses:
 * Recipe book app in Angular :see_no_evil:
 
 # Goals and Ideas :bulb:
 
+* Star Wars API Angular app with 'SWAPI'
 * Cipher CLI tool :wrench:
 * Custom PDF Generator
 * :spades: Games (Solitare, Chess, Checkers, Tic Tac Toe)
