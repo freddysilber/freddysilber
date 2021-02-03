@@ -1,6 +1,6 @@
 # About
 
-[![Freddys's GitHub stats](https://github-readme-stats.vercel.app/api?username=freddysilber&count_private=true&show_icons=true&theme=synthwave)](https://github.com/freddysilber/github-readme-stats)
+[![Freddys's GitHub stats](https://github-readme-stats.vercel.app/api?username=freddysilber&count_private=true&show_icons=true&theme=dark)](https://github.com/freddysilber/github-readme-stats)
 
 <hr style="background: #666"/>
 
