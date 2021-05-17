@@ -6,8 +6,5 @@
 -->
 
 ## My name is Freddy Silber and I am a Software Developer for [Cloud Coach](https://cloudcoach.com).
-
-<br/>
-
 ### Some things I'm working on...
 * [Portfolio site/ blog!](https://freddysilber.github.io/)
