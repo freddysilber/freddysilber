@@ -1,4 +1,4 @@
-## My name is Freddy Silber and I am a Software Developer for [Cloud Coach](https://cloudcoach.com).
+## I'm a Software Developer for [Cloud Coach](https://cloudcoach.com).
 ### Some things I've created...
 * [React Components in Salesforce Lightning](https://github.com/freddysilber/react-lightning)
 
