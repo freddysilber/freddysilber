@@ -1,7 +1,4 @@
 ## I'm a Software Developer for [Cloud Coach](https://cloudcoach.com).
-### Some things I've created...
-* [React Components in Salesforce Lightning](https://github.com/freddysilber/react-lightning)
-
 <br>
 
 > Feel free to reach out and connect with me!
