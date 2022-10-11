@@ -1,4 +1,4 @@
-#### Software Developer at [Cloud Coach](https://cloudcoach.com)
+### Software Developer at [Cloud Coach](https://cloudcoach.com)
 
 > Feel free to reach out and connect with me!
 > 
