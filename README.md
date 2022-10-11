@@ -1,5 +1,4 @@
-## I'm a Software Developer for [Cloud Coach](https://cloudcoach.com)
-<br>
+#### Software Developer at [Cloud Coach](https://cloudcoach.com)
 
 > Feel free to reach out and connect with me!
 > 
